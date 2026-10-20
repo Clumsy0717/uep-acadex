@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="24dp"
+    android:paddingTop="8dp"
+    android:paddingEnd="24dp">
+
+    <TextView
+        style="@style/Acadex.Label"
+        android:text="Title" />
+
+    <EditText
+        android:id="@+id/etTitle"
+        style="@style/Acadex.Input"
+        android:hint="e.g. Exam Day 4"
+        android:inputType="textCapWords" />
+
+    <TextView
+        style="@style/Acadex.Label"
+        android:text="Date" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        style="@style/Acadex.Input"
+        android:drawableEnd="@drawable/ic_calendar"
+        android:drawableTint="@color/acadex_muted"
+        android:hint="Select a date" />
+
+    <TextView
+        style="@style/Acadex.Label"
+        android:text="Note" />
+
+    <EditText
+        android:id="@+id/etNote"
+        style="@style/Acadex.Input"
+        android:hint="What should you remember?"
+        android:inputType="textCapSentences" />
+
+</LinearLayout>

@@ -7,4 +7,24 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
+  <component name="StoredSessionsInfoStore">
+    <option name="sessions">
+      <list>
+        <SessionInfoState>
+          <option name="id" value="20260803-103705-e649fbbb-fbe9-42b1-942c-53810885cde6" />
+          <option name="lastUpdateTimestamp" value="1785724625002" />
+          <option name="responseMode" value="Agent" />
+          <option name="title" value="New Agent Session" />
+          <option name="user" value="guntherlee17@gmail.com" />
+        </SessionInfoState>
+      </list>
+    </option>
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
 </project>

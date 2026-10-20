@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="acadex_bg">#F9FAFC</color>
+    <color name="acadex_light">#BACCE0</color>
+    <color name="acadex_primary">#1340A5</color>
+    <color name="acadex_navy">#0B245D</color>
+    <color name="acadex_ink">#101010</color>
+    <color name="acadex_heading">#1C2B27</color>
+    <color name="acadex_muted">#6B7280</color>
+    <color name="acadex_hint">#8A8F98</color>
+    <color name="acadex_border">#E3E8F0</color>
+</resources>
